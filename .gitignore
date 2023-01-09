@@ -153,3 +153,5 @@ cython_debug/
 
 # Weights and biases package
 wandb/
+*.h5
+kavp/
